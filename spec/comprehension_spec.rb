@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 describe "GIT" do
 # describe "STAGING AND COMMITTING CHANGES:" do
   it "1. What is the syntax for staging a change in index.html if it is in the root dir?" do
@@ -272,7 +271,7 @@ describe "GIT" do
   end
 
 end
-=======
+
 describe "GIT" do
 # describe "STAGING AND COMMITTING CHANGES:" do
   it "1. What is the syntax for staging a change in index.html if it is in the root dir?" do
@@ -546,4 +545,4 @@ describe "GIT" do
   end
 
 end
->>>>>>> 0599a77035e10e0b2d08fb918999388f4cfab538
+
